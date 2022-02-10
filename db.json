@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "username": "khoa1",
+      "password": "khoa123",
+      "name": "Nguyen Dinh Sy Khoa",
+      "sex": "Nam",
+      "phoneNumber": "123456789",
+      "email": "khoa@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": "3",
+      "username": "luc1",
+      "password": "luc123",
+      "name": "Nguyen Tan Luc",
+      "sex": "Nam",
+      "phoneNumber": "123456789",
+      "email": "luc@gmail.com",
+      "role": "Manager"
+    }
+  ],
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Novotel Hotel",
+      "address": "36 Bạch Đằng Street,Hải Châu",
+      "city": "Đà Nẵng",
+      "email": "novotel@gmail.com",
+      "phoneNumber": "0236392999",
+      "farFromCentre": "2km",
+      "evaluate": "3 sao",
+      "description": " 2 hồ bơi,Wi-Fi miễn phí,Xe đưa đón sân bay, Giáp biển"
+    },
+    {
+      "id": "2",
+      "name": "Sala Danang Beach hotel",
+      "address": "36-38 Đ.Lâm Hoành,Hải Châu",
+      "city": "Đà Nẵng",
+      "email": "saladanang@gmail.com",
+      "phoneNumber": "123456789",
+      "farFromCentre": "2km",
+      "evaluate": "5 sao",
+      "description": " 2 hồ bơi,Wi-Fi miễn phí,Xe đưa đón sân bay, Giáp biển"
+    },
+    {
+      "id": "3",
+      "name": "A la Carte Hotel",
+      "address": "200 Võ Nguyên Giáp Street,Phước Mỹ",
+      "city": "Đà Nẵng",
+      "email": "alacarte@gmail.com",
+      "phoneNumber": "02363959555",
+      "farFromCentre": "2km",
+      "evaluate": "3 sao",
+      "description": " 2 hồ bơi,Wi-Fi miễn phí,Xe đưa đón sân bay, Giáp biển"
+    }
+  ]
+}
